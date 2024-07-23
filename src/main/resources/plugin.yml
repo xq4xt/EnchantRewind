@@ -1,0 +1,9 @@
+name: EnchantRewind
+main: com.blockanomics.psychnodelic.EnchantRewind
+version: 1.0.1
+prefix: "EnchantRewind"
+description: "Reverts enchanting mechanics to pre-1.8 while requiring lapis"
+author:
+   "Psychnodelic"
+api:
+    "1.20.4"
